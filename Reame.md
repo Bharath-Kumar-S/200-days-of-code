@@ -23,7 +23,8 @@ A commitment to code for 200 consecutive days, building skills and completing pr
 
 ## Log
 ### Day 1
-1. Hashmaps and arrays [Nov 17]
+1. Hashmaps and arrays [Nov 17](./day%201/)
+2. Working on logs [Nov 18](./day%202/)
 
 
 ---

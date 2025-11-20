@@ -22,10 +22,9 @@ A commitment to code for 200 consecutive days, building skills and completing pr
 | 2    | 8-14 | ⬜     |         |
 
 ## Log
-### Day 1
 1. Hashmaps and arrays [Nov 17](./day%201/)
 2. Working on logs [Nov 18](./day%202/)
-
+3. TypeScript Classes [Nov 19](./day%203/)
 
 ---
 **Start Date:** [November 17 2025]

@@ -28,6 +28,7 @@ A commitment to code for 200 consecutive days, building skills and completing pr
 4. TypeScript Classes task [Nov 20](./day%204/)
 5. TypeScript access modifiers [Nov 21](./day%205/)
 6. TypeScript inheritence [Nov 22](./day%206/)
+7. TypeScript arrays [Nov 23](./day%207/arrays/)
 
 ---
 **Start Date:** [November 17 2025]

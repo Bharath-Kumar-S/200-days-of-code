@@ -1,4 +1,16 @@
-### 🔓 1. public
+# Day 5 - [21 Nov 2025](../day%205/) 
+
+### ✔ What I Revised
+TypeScript Class Access Modifiers
+
+### ✔ Problems Solved
+- [Access modifier](./accessModifier.ts)
+- [Example](./accessModifierExample.ts)
+- [Private Methods](./private/privateMethods.ts)
+- [Private Attributes](./private/privateAttributes.ts)
+- [Private Example](./private/privateExample.ts)
+
+#### 🔓 1. public
 
 Default in TypeScript.
 
@@ -20,7 +32,7 @@ console.log(p.name); // ✅ allowed
 
 If you don’t specify anything, it’s public.
 
-### 🔒 2. private
+#### 🔒 2. private
 
 Only accessible inside the same class.
 
@@ -48,7 +60,7 @@ p.showPhone() // ✅ OK
 
 Used for internal data you don’t want to expose.
 
-### 🟡 3. protected
+#### 🟡 3. protected
 
 Accessible:\
 ✔ inside the class\

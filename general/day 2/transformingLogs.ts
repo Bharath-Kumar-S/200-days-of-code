@@ -9,7 +9,7 @@
 // If multiple books have the same longest duration, list them in ascending order of their IDs.
 // For example, given logs like: "1 borrow 09:00, 2 borrow 10:00, 1 return 12:00, 3 borrow 13:00, 2 return 15:00, 3 return 16:00", the function should return: ["2 05:00"].
 
-import { toHHMM, toMinutes } from "../utils/time";
+import { toHHMM, toMinutes } from "../../utils/time";
 
 function transformingLogs(logs: string): string[] {
   const entries = logs.split(", ").map((e) => e.trim());

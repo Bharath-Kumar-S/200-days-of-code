@@ -32,8 +32,8 @@ A commitment to code for 200 consecutive days, building skills and completing pr
 - [Day 7 (2025-11-23)](./general/day%207/notes.md)
 - [Day 8 (2025-11-24)](./general/day%208/notes.md)
 - [Day 9 (2025-11-25)](./general/day%209/notes.md)
-- [Day 10 (2025-11-25)](./general/day%2010/notes.md)
-
+- [Day 10 (2025-11-26)](./general/day%2010/notes.md)
+- [Day 11 (2025-11-27)](./general/day%2011/notes.md)
 ---
 **Start Date:** [November 17 2025]
 **Target Completion:** [June 5 2025]

@@ -38,6 +38,7 @@ A commitment to code for 200 consecutive days, building skills and completing pr
 - [Day 13 (2025-11-29)](./general/day%2013/notes.md)
 - [Day 14 (2025-11-30)](https://github.com/Bharath-Kumar-S/XYB)
 - [Day 15 (2025-12-01)](https://github.com/Bharath-Kumar-S/XYB)
+- [Day 16 (2025-12-02)](./general/day%2016/latest/)
 
 ---
 **Start Date:** [November 17 2025]

@@ -48,8 +48,8 @@ React hook form, Modal component
 Clerk auth 
 - [Day 20 (2025-12-06)](./projects/polls-app/)
 Clerk auth refactor user endpoint
-- [Day 21 (2025-12-07)](./projects/react-playground/)
-React playground
+- [Day 21 (2025-12-07)](./projects/react-playground/app/components/Refs.tsx)
+React playground Refs
 
 
 ---

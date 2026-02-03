@@ -204,6 +204,9 @@ A commitment to code for 100 consecutive days, building skills and completing pr
 - [Day 70 (2026-01-25)](./leetcode/essentials/index.ts)
   Add helpers
 
+- [Day 71 (2026-01-26)](./tasks/rateLimitedTaskScheduler.ts)
+  Rate Limited Task Scheduler
+
 ---
 
 **Start Date:** [November 17 2025]

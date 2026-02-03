@@ -1,8 +1,8 @@
-# 100 Days of Code v2
+# 71 Days of Code
 
 ## Overview
 
-A commitment to code for 100 consecutive days, building skills and completing projects.
+A commitment to code for 71 consecutive days, building skills and completing projects.
 
 ## Goals
 
@@ -210,4 +210,4 @@ A commitment to code for 100 consecutive days, building skills and completing pr
 ---
 
 **Start Date:** [November 17 2025]
-**Target Completion:** [Feb 25 2026]
+**Target Completion:** [Jan 26 2026]
